@@ -1,1 +1,3 @@
-This is just a test.
+https://github.com/remington-berg/hello-world.git
+
+A qustion that I have is that if a "git init" is created for a folder and then another "git init" nested inside for another folder, how do you delete or change the main origin but not the nested file.
